@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angilar-fies-app"
+    }
+  },
+  "defaultProject": "angilar-fies-app",
+  "cli": {
+    "analytics": "26b540bb-75ba-4c5a-bbd5-3ae04e3f94a5"
+  }
 }
